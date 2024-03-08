@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33734b9b0c21b462",
+  "active": "71ab2ac91dea4f14",
   "lastOpenFiles": [
     "README.md",
     "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
