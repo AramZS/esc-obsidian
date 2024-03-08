@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "33734b9b0c21b462",
   "lastOpenFiles": [
+    "README.md",
     "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
-    "ESC.fyi sandbox (MG)",
-    "README.md"
+    "ESC.fyi sandbox (MG)"
   ]
 }
