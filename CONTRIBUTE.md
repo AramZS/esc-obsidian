@@ -13,9 +13,9 @@ Open Settings in the bottom left corner
     - [ ] Create and Account
     - [ ] Send email to Aram and request access as Site Collaborator
 
-- - [ ] Under Community Plugins, Enable them
-        - [ ] Browse
-        - [ ] Search for, Install, and Enable the following:
+- [ ] Under Community Plugins, Enable them
+	- [ ] Browse
+	- [ ] Search for, Install, and Enable the following:
 
 # Plugins
 
