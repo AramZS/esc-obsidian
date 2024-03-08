@@ -11,4 +11,3 @@
 Refs: 
 - https://www.youtube.com/watch?v=NYWOdekAbYQ
 - https://geo.coop/internet-ownership-archive
-- write to me and I can add you to the Signal group. joyce ATsearls.com
