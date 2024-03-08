@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "da747a93dbe487d4",
+        "id": "f3c2e44ed33c9a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "34826350c652ceeb",
+            "id": "71ab2ac91dea4f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33734b9b0c21b462",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34826350c652ceeb",
-  "lastOpenFiles": []
+  "active": "33734b9b0c21b462",
+  "lastOpenFiles": [
+    "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+    "ESC.fyi sandbox (MG)",
+    "README.md"
+  ]
 }
