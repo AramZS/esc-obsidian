@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ec592540c136b26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "33734b9b0c21b462",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESC.fyi sandbox (MG)/ESC.fyi outline.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ab2ac91dea4f14",
+  "active": "ec592540c136b26d",
   "lastOpenFiles": [
-    "README.md",
     "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+    "conflict-files-obsidian-git.md",
+    "CONTRIBUTE.md",
+    "README.md",
     "ESC.fyi sandbox (MG)"
   ]
 }
