@@ -10,4 +10,4 @@ To get started:
 
 ## Resources 
 
-- 
+- The content of this is web-facing at https://publish.obsidian.md/esc-fyi 
