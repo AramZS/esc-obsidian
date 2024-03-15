@@ -8,10 +8,10 @@ The group meets via Signal, an invited group. Interested parties can submit chan
 
 ## Flow of work: 
 
-- ESC members may submit a document in any format in any of the ESC Signal channels to a member of the editorial group.
-- Editorial group memebers will review, push to Obsidian, and can give feedback.
-- Editorial content that is ready to publish will be tagged with front-matter saying `publishable: true`. 
-- Editorial content that has undergone a review and has not been blocked by a member of the group can go live on the website as a basic page or as a more complex one, if chosen by the author. 
+- Submission: ESC members may submit a document in any format in any of the ESC Signal channels to a member of the editorial group.
+- Ready to Review: Editorial group memebers will review, push to Obsidian, and can give feedback.
+- Ready to Publish: Editorial content that is ready to publish will be tagged with front-matter saying `publishable: true`. 
+- Published: Editorial content that has undergone a review and has not been blocked by a member of the group can go live on the website as a basic page or as a more complex one, if chosen by the author. 
 
 
 ## AI:
