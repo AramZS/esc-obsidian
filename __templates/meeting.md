@@ -7,5 +7,5 @@ created: "{{date}}"
 ---
 # {{title}}
 
-internalGroup:: [[meeting-group]] or [[group]]
+internalGroup:: [[meeting-group]] or [[working-group]]
 externalGroup:: [[meeting-group]]
