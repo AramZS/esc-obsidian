@@ -7,6 +7,12 @@ To get started:
 - Open the repo with obsidian
 - [Install](https://publish.obsidian.md/git-doc/Installation) the Obsidian Git community plugin
 
+## To Use Templates
+
+- Go to the gear in the bottom of Obsidian 
+- Under Core Plugins go to templates
+- Select the `__templates` folder 
+
 
 ## Resources 
 

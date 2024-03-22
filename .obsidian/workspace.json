@@ -13,13 +13,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTRIBUTE.md",
+                "file": "__templates/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a5020b47436958a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__templates/topic-playbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b641bd1e8edd0afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e134b0dc42006a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__templates/group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4808bc3280c028dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__templates/meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTRIBUTE.md",
+                "file": "__templates/topic-playbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTRIBUTE.md",
+                "file": "__templates/topic-playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTRIBUTE.md"
+                "file": "__templates/topic-playbook.md"
               }
             }
           }
@@ -147,9 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34826350c652ceeb",
+  "active": "7a5020b47436958a",
   "lastOpenFiles": [
+    "__templates/meeting.md",
+    "__templates/topic-playbook.md",
+    "__templates/group.md",
+    "__templates/meeting-group.md",
+    "__templates/README.md",
+    "nyc/README.md",
     "working-groups/editorial.md",
+    "README.md",
+    "__templates",
+    "CONTRIBUTE.md",
+    "assets/README.md",
+    "assets",
     "working-groups",
     "topic-playbooks/README.md",
     "topic-playbooks",
@@ -160,9 +215,6 @@
     "orgs/README.md",
     "orgs",
     "old-sessions.md",
-    "nyc/README.md",
-    "nyc",
-    "README.md",
-    "CONTRIBUTE.md"
+    "nyc"
   ]
 }
