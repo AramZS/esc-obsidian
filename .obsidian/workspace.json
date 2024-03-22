@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__templates/topic-playbook.md",
+                "file": "events/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__templates/group.md",
+                "file": "__templates/org.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__templates/topic-playbook.md",
+                "file": "__templates/org.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__templates/topic-playbook.md",
+                "file": "__templates/org.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__templates/topic-playbook.md"
+                "file": "__templates/org.md"
               }
             }
           }
@@ -191,30 +190,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a5020b47436958a",
+  "active": "3e134b0dc42006a1",
   "lastOpenFiles": [
+    "standards/README.md",
+    "__templates/media-item.md",
+    "standards",
+    "events/README.md",
+    "orgs/README.md",
+    "events",
     "__templates/meeting.md",
+    "__templates/glossary-item.md",
+    "glossary/README.md",
+    "Glossary.md",
+    "glossary",
+    "__templates/org.md",
+    "media/items/README.md",
+    "media/books/README.md",
+    "media/podcasts/README.md",
+    "media/README.md",
+    "media/items",
+    "README.md",
+    "tools",
+    "people/README.md",
+    "media/podcasts",
+    "media/books",
+    "media",
     "__templates/topic-playbook.md",
-    "__templates/group.md",
     "__templates/meeting-group.md",
+    "__templates/working-group.md",
+    "working-groups/editorial.md",
+    "topic-playbooks/README.md",
     "__templates/README.md",
     "nyc/README.md",
-    "working-groups/editorial.md",
-    "README.md",
     "__templates",
     "CONTRIBUTE.md",
     "assets/README.md",
     "assets",
-    "working-groups",
-    "topic-playbooks/README.md",
-    "topic-playbooks",
     "sf/README.md",
-    "sf",
-    "people/README.md",
-    "people",
-    "orgs/README.md",
-    "orgs",
-    "old-sessions.md",
-    "nyc"
+    "old-sessions.md"
   ]
 }
