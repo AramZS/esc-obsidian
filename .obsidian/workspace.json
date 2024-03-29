@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/Cluetrain Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/Cluetrain Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/Cluetrain Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Books/Cluetrain Manifesto.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -173,9 +174,12 @@
   },
   "active": "ec592540c136b26d",
   "lastOpenFiles": [
+    "Books/README.md",
+    "Books/Cluetrain Manifesto.md",
     "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
-    "conflict-files-obsidian-git.md",
+    "Books",
     "CONTRIBUTE.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "ESC.fyi sandbox (MG)"
   ]
