@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetings-notes/2024-03-22.md",
+                "file": "events/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetings-notes/2024-03-22.md",
+                "file": "events/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetings-notes/2024-03-22.md"
+                "file": "events/README.md"
               }
             }
           }
@@ -203,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "921eb43c710cba45",
+  "active": "7a5020b47436958a",
   "lastOpenFiles": [
-    "meetings-notes/README.md",
     "meetings-notes/2024-03-22.md",
+    "meetings-notes/README.md",
     "__templates/org.md",
     "meetings-notes",
     "standards/README.md",
