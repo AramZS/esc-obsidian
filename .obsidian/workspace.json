@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/README.md",
+                "file": "old-sessions.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetings-notes/2024-03-22.md",
+                "file": "directory/meetings-notes/2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/README.md",
+                "file": "old-sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "events/README.md",
+                "file": "old-sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "events/README.md"
+                "file": "old-sessions.md"
               }
             }
           }
@@ -205,41 +205,41 @@
   },
   "active": "7a5020b47436958a",
   "lastOpenFiles": [
-    "meetings-notes/2024-03-22.md",
-    "meetings-notes/README.md",
-    "__templates/org.md",
-    "meetings-notes",
-    "standards/README.md",
-    "__templates/media-item.md",
-    "standards",
-    "events/README.md",
-    "orgs/README.md",
-    "events",
-    "__templates/meeting.md",
-    "__templates/glossary-item.md",
-    "glossary/README.md",
-    "Glossary.md",
-    "glossary",
-    "media/items/README.md",
-    "media/books/README.md",
-    "media/podcasts/README.md",
-    "media/README.md",
-    "media/items",
-    "README.md",
-    "tools",
-    "people/README.md",
-    "media/podcasts",
-    "media/books",
-    "media",
-    "__templates/topic-playbook.md",
-    "__templates/meeting-group.md",
-    "__templates/working-group.md",
-    "working-groups/editorial.md",
-    "topic-playbooks/README.md",
+    "directory/working-groups/editorial.md",
+    "directory/working-groups/README.md",
+    "directory/tools/README.md",
+    "directory/standards/README.md",
+    "directory/people/README.md",
+    "directory/orgs/README.md",
+    "directory/nyc/README.md",
+    "directory/meetings-notes/2024-03-22.md",
+    "directory/media/podcasts/README.md",
+    "directory/meetings-notes/README.md",
+    "directory/media/items/README.md",
+    "directory/media/books/README.md",
+    "directory/media/README.md",
+    "directory/glossary/ATerm.md",
+    "directory/glossary/README.md",
+    "directory/events/README.md",
+    "directory/events/AEvent.md",
+    "directory/events/README-old.md",
+    "directory/topic-playbooks/README.md",
+    "assets/README.md",
     "__templates/README.md",
-    "nyc/README.md",
-    "__templates",
-    "CONTRIBUTE.md",
-    "assets/README.md"
+    "directory/sf/README.md",
+    "Untitled.md",
+    "directory",
+    "blog",
+    "about",
+    "__templates/org.md",
+    "directory/meetings-notes",
+    "__templates/media-item.md",
+    "directory/standards",
+    "directory/events",
+    "__templates/meeting.md",
+    "directory/glossary",
+    "directory/media/items",
+    "directory/tools",
+    "directory/media/podcasts"
   ]
 }
