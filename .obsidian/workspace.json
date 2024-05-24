@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-sessions.md",
+                "file": "directory/media/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-sessions.md",
+                "file": "directory/media/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-sessions.md",
+                "file": "directory/media/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-sessions.md"
+                "file": "directory/media/README.md"
               }
             }
           }
@@ -205,6 +205,16 @@
   },
   "active": "7a5020b47436958a",
   "lastOpenFiles": [
+    "directory/media/books/README.md",
+    "__templates/readme-template.md",
+    "__templates/README.md",
+    "about/README.md",
+    "blog/README.md",
+    "assets/README.md",
+    "directory/events/README.md",
+    "Untitled.md",
+    "untitled folder",
+    "old-sessions.md",
     "directory/working-groups/editorial.md",
     "directory/working-groups/README.md",
     "directory/tools/README.md",
@@ -216,30 +226,20 @@
     "directory/media/podcasts/README.md",
     "directory/meetings-notes/README.md",
     "directory/media/items/README.md",
-    "directory/media/books/README.md",
     "directory/media/README.md",
     "directory/glossary/ATerm.md",
     "directory/glossary/README.md",
-    "directory/events/README.md",
     "directory/events/AEvent.md",
     "directory/events/README-old.md",
     "directory/topic-playbooks/README.md",
-    "assets/README.md",
-    "__templates/README.md",
-    "directory/sf/README.md",
-    "Untitled.md",
     "directory",
     "blog",
     "about",
-    "__templates/org.md",
     "directory/meetings-notes",
-    "__templates/media-item.md",
     "directory/standards",
     "directory/events",
-    "__templates/meeting.md",
     "directory/glossary",
     "directory/media/items",
-    "directory/tools",
-    "directory/media/podcasts"
+    "directory/tools"
   ]
 }
