@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/media/README.md",
+                "file": "assets/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/meetings-notes/2024-03-22.md",
+                "file": "blog/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/media/README.md",
+                "file": "assets/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory/media/README.md",
+                "file": "assets/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory/media/README.md"
+                "file": "assets/README.md"
               }
             }
           }
@@ -205,12 +205,14 @@
   },
   "active": "7a5020b47436958a",
   "lastOpenFiles": [
-    "directory/glossary/README.md",
     "blog/README.md",
-    "about/README.md",
-    "assets/README.md",
-    "CONTRIBUTE.md",
     "directory/media/README.md",
+    "assets/README.md",
+    "about/README.md",
+    "CONTRIBUTE.md",
+    "README.md",
+    "directory/meetings-notes/2024-03-22.md",
+    "directory/glossary/README.md",
     "directory/media/books/README.md",
     "__templates/readme-template.md",
     "__templates/README.md",
@@ -225,13 +227,11 @@
     "directory/people/README.md",
     "directory/orgs/README.md",
     "directory/nyc/README.md",
-    "directory/meetings-notes/2024-03-22.md",
     "directory/media/podcasts/README.md",
     "directory/meetings-notes/README.md",
     "directory/media/items/README.md",
     "directory/glossary/ATerm.md",
     "directory/events/AEvent.md",
-    "directory/events/README-old.md",
     "directory",
     "blog",
     "about",
