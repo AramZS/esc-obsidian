@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/README.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73da397fd4955196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b641bd1e8edd0afe",
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/README.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/README.md"
+                "file": "Home.md"
               }
             }
           }
@@ -203,21 +215,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a5020b47436958a",
+  "active": "2c1fca105a599c34",
   "lastOpenFiles": [
+    "README.md",
+    "Home.md",
+    "assets/README.md",
     "blog/README.md",
     "directory/media/README.md",
-    "assets/README.md",
     "about/README.md",
     "CONTRIBUTE.md",
-    "README.md",
     "directory/meetings-notes/2024-03-22.md",
     "directory/glossary/README.md",
     "directory/media/books/README.md",
     "__templates/readme-template.md",
     "__templates/README.md",
     "directory/events/README.md",
-    "Untitled.md",
     "untitled folder",
     "old-sessions.md",
     "directory/working-groups/editorial.md",
