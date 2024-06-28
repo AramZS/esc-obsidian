@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "directory/nyc/STOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__templates/README.md",
+                "file": "directory/nyc/STOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__templates/README.md",
+                "file": "directory/nyc/STOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__templates/README.md"
+                "file": "directory/nyc/STOP.md"
               }
             }
           }
@@ -215,10 +215,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1fca105a599c34",
+  "active": "73da397fd4955196",
   "lastOpenFiles": [
-    "README.md",
+    "__templates/org.md",
+    "__templates/working-group.md",
+    "__templates/Untitled.md",
+    "directory/nyc/STOP.md",
+    "directory/nyc/README.md",
     "Home.md",
+    "__templates/README.md",
+    "README.md",
     "assets/README.md",
     "blog/README.md",
     "directory/media/README.md",
@@ -228,7 +234,6 @@
     "directory/glossary/README.md",
     "directory/media/books/README.md",
     "__templates/readme-template.md",
-    "__templates/README.md",
     "directory/events/README.md",
     "untitled folder",
     "old-sessions.md",
@@ -238,12 +243,7 @@
     "directory/standards/README.md",
     "directory/people/README.md",
     "directory/orgs/README.md",
-    "directory/nyc/README.md",
     "directory/media/podcasts/README.md",
-    "directory/meetings-notes/README.md",
-    "directory/media/items/README.md",
-    "directory/glossary/ATerm.md",
-    "directory/events/AEvent.md",
     "directory",
     "blog",
     "about",
