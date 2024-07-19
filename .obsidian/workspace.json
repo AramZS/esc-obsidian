@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/sf/CAPrivacy.md",
+                "file": "directory/orgs/ProjectLiberty.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__templates/README.md",
+                "file": "directory/orgs/ProjectLiberty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__templates/README.md",
+                "file": "directory/orgs/ProjectLiberty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__templates/README.md"
+                "file": "directory/orgs/ProjectLiberty.md"
               }
             }
           }
@@ -215,8 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1fca105a599c34",
+  "active": "73da397fd4955196",
   "lastOpenFiles": [
+    "directory/orgs/README.md",
+    "directory/orgs/ProjectLiberty.md",
+    "__templates/README.md",
     "directory/sf/README.md",
     "directory/sf/CAPrivacy.md",
     "README.md",
@@ -226,7 +229,6 @@
     "__templates/Untitled.md",
     "directory/nyc/README.md",
     "Home.md",
-    "__templates/README.md",
     "assets/README.md",
     "blog/README.md",
     "directory/media/README.md",
@@ -242,8 +244,6 @@
     "directory/working-groups/editorial.md",
     "directory/working-groups/README.md",
     "directory/tools/README.md",
-    "directory/standards/README.md",
-    "directory/people/README.md",
     "directory",
     "blog",
     "about",
