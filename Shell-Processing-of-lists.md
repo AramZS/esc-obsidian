@@ -1,7 +1,7 @@
 This script should process a List file in a directory into a set of useful folders and files 
 
 ```sh
-cat List.md | awk 'NF' | sed 's/^- //' | sed 's/"[^"]*"/""/g' | sed 's/([^)]*)//g' | sed 's/[()]//g' | sed 's/[[:space:]]*$//' | sed 's/\./-/g' | sed 's/\//-/g' | sed 's/#.*$//' | \
+cat List.md | awk 'NF' | sed 's/^- //' | sed 's/"[^"]*"/""/g' | sed 's/([^)]*)//g' | sed 's/[()]//g' | sed 's/[[:space:]]*$//' | sed 's/\./-/g' | sed 's/\//-/g' | sed 's/#.*$//' | sed 's/\:.*$//' | \
 while read -r line; do
     newfile="$(echo "$line" | tr ' ' '_')"
     filepath="$newfile/$newfile.md"
