@@ -1,8 +1,8 @@
 ---
 aliases:
-  - All Tech Is Human
+  - "National_Conference_on_Citizenship"
 ---
-# All Tech Is Human
+# National_Conference_on_Citizenship
 
 Brief
 

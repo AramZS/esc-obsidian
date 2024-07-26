@@ -1,9 +1,8 @@
 ---
 aliases:
-  - CenterForHumaneTech
-  - Center for Humane Tech
+  - "Solutions_Journalism_Network"
 ---
-# Center For Humane Tech
+# Solutions_Journalism_Network
 
 Brief
 
