@@ -4,3 +4,6 @@
 **/.npmrc
 .obsidian/workspace.json
 .DS_Store
+ESC.fyi sandbox*
+ESC.fyi sandbox**
+ESC.fyi sandbox/*
