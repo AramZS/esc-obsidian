@@ -2,4 +2,5 @@
 **/.env
 **/node_modules
 **/.npmrc
-.obsidian/workplace.json
+.obsidian/workspace.json
+.DS_Store
