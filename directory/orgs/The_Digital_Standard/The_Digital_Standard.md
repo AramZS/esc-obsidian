@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "The_Digital_Standard"
+  - "The Digital Standard"
 ---
 # The Digital Standard
 

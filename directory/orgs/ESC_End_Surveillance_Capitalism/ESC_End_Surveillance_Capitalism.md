@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "ESC_End_Surveillance_Capitalism"
+  - "ESC End Surveillance Capitalism"
 ---
 # ESC End Surveillance Capitalism
 

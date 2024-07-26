@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "National_Conference_on_Citizenship"
+  - "National Conference on Citizenship"
 ---
 # National Conference on Citizenship
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Planetary_Care"
+  - "Planetary Care"
 ---
 # Planetary Care
 

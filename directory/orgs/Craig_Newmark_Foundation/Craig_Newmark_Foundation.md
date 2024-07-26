@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Craig_Newmark_Foundation"
+  - "Craig Newmark Foundation"
 ---
 # Craig Newmark Foundation
 

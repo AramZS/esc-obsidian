@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Electronic_Frontier_Foundation"
+  - "Electronic Frontier Foundation"
 ---
 # Electronic Frontier Foundation
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Free_Software_Foundation"
+  - "Free Software Foundation"
 ---
 # Free Software Foundation
 

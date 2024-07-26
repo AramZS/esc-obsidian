@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Center_for_Humane_Tech
+  - Center for Humane Tech
   - Center for Humane Tech
 ---
 # Center for Humane Tech

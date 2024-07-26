@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Co-Intelligence_Institute"
+  - "Co-Intelligence Institute"
 ---
 # Co-Intelligence Institute
 

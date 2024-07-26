@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Considered_Capital"
+  - "Considered Capital"
 ---
 # Considered Capital
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Data_{{title}}_Society"
+  - "Data {{title}} Society"
 ---
 # Data {{title}} Society
 

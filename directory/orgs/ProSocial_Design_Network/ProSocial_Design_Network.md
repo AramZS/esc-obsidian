@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "ProSocial_Design_Network"
+  - "ProSocial Design Network"
 ---
 # ProSocial Design Network
 

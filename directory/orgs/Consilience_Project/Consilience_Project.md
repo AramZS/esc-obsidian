@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Consilience_Project"
+  - "Consilience Project"
 ---
 # Consilience Project
 

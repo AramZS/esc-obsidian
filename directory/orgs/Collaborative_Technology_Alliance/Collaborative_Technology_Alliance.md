@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Collaborative_Technology_Alliance"
+  - "Collaborative Technology Alliance"
 ---
 # Collaborative Technology Alliance
 

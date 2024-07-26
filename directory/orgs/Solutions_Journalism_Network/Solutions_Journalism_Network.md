@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Solutions_Journalism_Network"
+  - "Solutions Journalism Network"
 ---
 # Solutions Journalism Network
 

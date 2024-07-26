@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Council_for_Responsible_Social_Media"
+  - "Council for Responsible Social Media"
 ---
 # Council for Responsible Social Media
 

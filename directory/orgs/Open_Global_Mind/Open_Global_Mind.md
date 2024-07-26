@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Open_Global_Mind"
+  - "Open Global Mind"
 ---
 # Open Global Mind
 

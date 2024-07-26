@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Credibility_Coalition"
+  - "Credibility Coalition"
 ---
 # Credibility Coalition
 

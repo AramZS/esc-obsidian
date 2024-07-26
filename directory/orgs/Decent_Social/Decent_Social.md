@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Decent_Social"
+  - "Decent Social"
 ---
 # Decent Social
 

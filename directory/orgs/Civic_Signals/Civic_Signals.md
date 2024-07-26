@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Civic_Signals"
+  - "Civic Signals"
 ---
 # Civic Signals
 

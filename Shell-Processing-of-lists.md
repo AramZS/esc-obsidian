@@ -20,3 +20,9 @@ Clean up titles in each new file
 ```sh
 LC_ALL=C find . -type f -exec sed -i '' '/^#/s/_/ /g' {} +
 ```
+
+Clean up alias in each new file 
+
+```sh
+LC_ALL=C find . -type f -exec sed -i '' '/^  - /s/_/ /g' {} +
+```

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "All_Tech_Is_Human"
+  - "All Tech Is Human"
 ---
 # All Tech Is Human
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Startups_{{title}}_Society"
+  - "Startups {{title}} Society"
 ---
 # Startups {{title}} Society
 

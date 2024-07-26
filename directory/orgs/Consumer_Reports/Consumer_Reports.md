@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Consumer_Reports"
+  - "Consumer Reports"
 ---
 # Consumer Reports
 

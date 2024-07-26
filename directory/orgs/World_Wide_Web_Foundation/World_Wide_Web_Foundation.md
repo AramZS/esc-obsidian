@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "World_Wide_Web_Foundation"
+  - "World Wide Web Foundation"
 ---
 # World Wide Web Foundation
 

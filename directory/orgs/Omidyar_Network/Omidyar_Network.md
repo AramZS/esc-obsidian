@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Omidyar_Network"
+  - "Omidyar Network"
 ---
 # Omidyar Network
 

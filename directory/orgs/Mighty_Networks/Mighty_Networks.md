@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Mighty_Networks"
+  - "Mighty Networks"
 ---
 # Mighty Networks
 
