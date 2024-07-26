@@ -1,6 +1,7 @@
 ---
 aliases:
   - STOP
+homepage: https://www.stopspying.org/
 ---
 # STOP
 
