@@ -1,6 +1,10 @@
 ---
 aliases:
   - RestoreThe4th
+  - Restore the Fourth
+  - Restore the 4th
+  - Rt4
+homepage: https://restorethe4th.com/
 ---
 # Restore The 4th
 
