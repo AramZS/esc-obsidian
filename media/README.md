@@ -1,0 +1,1 @@
+This general folder is for non categorized media
