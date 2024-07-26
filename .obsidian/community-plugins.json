@@ -1,11 +1,11 @@
 [
-	"obsidian-git",
-	"folder-note-plugin",
-	"share-note",
-	"dataview",
-	"settings-search",
-	"obsidian-style-settings",
-	"obsidian-kanban",
-	"obsidian-full-calendar",
-	"obsidian-advanced-uri"
+  "obsidian-git",
+  "folder-note-plugin",
+  "share-note",
+  "dataview",
+  "settings-search",
+  "obsidian-style-settings",
+  "obsidian-kanban",
+  "obsidian-full-calendar",
+  "obsidian-advanced-uri"
 ]
