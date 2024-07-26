@@ -20,12 +20,96 @@
             }
           },
           {
+            "id": "75f2c03d520c7360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orgs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a160d7ee890b35bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ec592540c136b26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Cluetrain Manifesto.md",
+                "file": "media/books/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6387ca3ec356fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/books/The Cluetrain Manifesto.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61d6affbd7d07c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/books/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d25a11637106c686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa46f098ac768e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orgs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a7d41e2dff1a1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/books/The Cluetrain Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Cluetrain Manifesto.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Cluetrain Manifesto.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Cluetrain Manifesto.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -169,18 +253,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ec592540c136b26d",
+  "active": "a160d7ee890b35bd",
   "lastOpenFiles": [
-    "Books/README.md",
-    "Books/Cluetrain Manifesto.md",
-    "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
-    "Books",
-    "CONTRIBUTE.md",
+    "orgs/README.md",
+    "events/README.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
-    "ESC.fyi sandbox (MG)"
+    "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+    "media/books/books.md",
+    "people/README.md",
+    "Untitled.md",
+    "media/books/README.md",
+    "media/books/Zucked.md",
+    "media/books/The Cluetrain Manifesto.md",
+    "media/books/Cluetrain Manifesto.md",
+    "working-groups/editorial.md",
+    "working-groups",
+    "topic-playbooks/README.md",
+    "topic-playbooks",
+    "standards/README.md",
+    "standards",
+    "sf/README.md",
+    "sf",
+    "people",
+    "orgs",
+    "old-sessions.md",
+    "nyc/README.md",
+    "nyc",
+    "meetings-notes/README.md",
+    "meetings-notes/2024-03-22.md",
+    "meetings-notes",
+    "media/podcasts/README.md",
+    "media/items/README.md",
+    "media/podcasts",
+    "media/items",
+    "media/README.md",
+    "glossary/README.md",
+    "assets/README.md",
+    "__templates/working-group.md",
+    "__templates/topic-playbook.md"
   ]
 }
