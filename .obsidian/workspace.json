@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/orgs/List.md",
+                "file": "directory/tools/protocols/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/orgs/List.md",
+                "file": "directory/tools/protocols/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory/orgs/List.md",
+                "file": "directory/tools/protocols/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory/orgs/List.md"
+                "file": "directory/tools/protocols/README.md"
               }
             }
           }
@@ -217,25 +217,27 @@
   },
   "active": "73da397fd4955196",
   "lastOpenFiles": [
+    "__templates/tool.md",
+    "__templates/working-group.md",
+    "__templates/org.md",
+    "__templates/meeting-group.md",
+    "directory/tools/platforms/List.md",
+    "directory/tools/platforms/README.md",
+    "directory/tools/README.md",
+    "directory/orgs/List.md",
     "directory/orgs/README.md",
     "directory/events/HOPE.md",
     "directory/events/README.md",
     "directory/people/README.md",
-    "directory/tools/README.md",
-    "__templates/working-group.md",
     "__templates/topic-playbook.md",
     "__templates/readme-template.md",
-    "__templates/meeting-group.md",
     "__templates/README.md",
     "directory/events/AEvent.md",
     "directory/tools/protocols/List.md",
     "directory/tools/protocols/README.md",
-    "directory/tools/platforms/List.md",
     "directory/tools/protocols.md",
     "directory/tools/protocols",
-    "directory/tools/platforms/README.md",
     "directory/tools/platforms",
-    "directory/orgs/List.md",
     "directory/orgs/CenterForDemocracyAndTechnology.md",
     "directory/orgs/CenterForHumaneTech.md",
     "directory/orgs/AllTechIsHuman.md",
@@ -243,8 +245,6 @@
     "Home.md",
     "old-sessions.md",
     "README.md",
-    "directory/orgs/Kwaai.md",
-    "directory/orgs/RestoreThe4th.md",
     "untitled folder",
     "directory",
     "blog",
