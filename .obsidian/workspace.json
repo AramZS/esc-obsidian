@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "directory/orgs/List.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "directory/orgs/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "directory/orgs/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "directory/orgs/List.md"
               }
             }
           }
@@ -217,32 +217,34 @@
   },
   "active": "73da397fd4955196",
   "lastOpenFiles": [
+    "directory/orgs/README.md",
+    "directory/events/HOPE.md",
+    "directory/events/README.md",
+    "directory/people/README.md",
+    "directory/tools/README.md",
+    "__templates/working-group.md",
+    "__templates/topic-playbook.md",
+    "__templates/readme-template.md",
+    "__templates/meeting-group.md",
+    "__templates/README.md",
+    "directory/events/AEvent.md",
+    "directory/tools/protocols/List.md",
+    "directory/tools/protocols/README.md",
+    "directory/tools/platforms/List.md",
+    "directory/tools/protocols.md",
+    "directory/tools/protocols",
+    "directory/tools/platforms/README.md",
+    "directory/tools/platforms",
+    "directory/orgs/List.md",
+    "directory/orgs/CenterForDemocracyAndTechnology.md",
+    "directory/orgs/CenterForHumaneTech.md",
+    "directory/orgs/AllTechIsHuman.md",
+    "directory/orgs/AccountableTech.md",
+    "Home.md",
     "old-sessions.md",
     "README.md",
     "directory/orgs/Kwaai.md",
     "directory/orgs/RestoreThe4th.md",
-    "directory/orgs/ProjectLiberty.md",
-    "directory/orgs/CheckMyAds.md",
-    "directory/nyc/STOP.md",
-    "directory/glossary/ATerm.md",
-    "directory/orgs/README.md",
-    "Home.md",
-    "__templates/README.md",
-    "directory/sf/README.md",
-    "directory/sf/CAPrivacy.md",
-    "__templates/org.md",
-    "__templates/working-group.md",
-    "__templates/Untitled.md",
-    "directory/nyc/README.md",
-    "assets/README.md",
-    "blog/README.md",
-    "directory/media/README.md",
-    "about/README.md",
-    "CONTRIBUTE.md",
-    "directory/meetings-notes/2024-03-22.md",
-    "directory/glossary/README.md",
-    "directory/media/books/README.md",
-    "__templates/readme-template.md",
     "untitled folder",
     "directory",
     "blog",
@@ -250,8 +252,6 @@
     "directory/meetings-notes",
     "directory/standards",
     "directory/events",
-    "directory/glossary",
-    "directory/media/items",
-    "directory/tools"
+    "directory/glossary"
   ]
 }
