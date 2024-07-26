@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Open_Data_Initiative"
+  - "Open Data Initiative"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Open_Data_Initiative
+# Open Data Initiative
 
 Brief on what the tool is and does 
 

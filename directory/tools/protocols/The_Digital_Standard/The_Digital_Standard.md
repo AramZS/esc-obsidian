@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "The_Digital_Standard"
+  - "The Digital Standard"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# The_Digital_Standard
+# The Digital Standard
 
 Brief on what the tool is and does 
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Verifiable_credential"
+  - "Verifiable credential"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Verifiable_credential
+# Verifiable credential
 
 Brief on what the tool is and does 
 

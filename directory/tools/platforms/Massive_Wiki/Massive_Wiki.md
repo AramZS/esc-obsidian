@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Massive_Wiki"
+  - "Massive Wiki"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Massive_Wiki
+# Massive Wiki
 
 Brief on what the tool is and does 
 

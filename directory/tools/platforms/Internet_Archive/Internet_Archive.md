@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Internet_Archive"
+  - "Internet Archive"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Internet_Archive
+# Internet Archive
 
 Brief on what the tool is and does 
 

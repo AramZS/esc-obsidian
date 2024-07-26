@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Social_Roots"
+  - "Social Roots"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Social_Roots
+# Social Roots
 
 Brief on what the tool is and does 
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Value_flows"
+  - "Value flows"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Value_flows
+# Value flows
 
 Brief on what the tool is and does 
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "DuckDuckGo_Edvo"
+  - "DuckDuckGo Edvo"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# DuckDuckGo_Edvo
+# DuckDuckGo Edvo
 
 Brief on what the tool is and does 
 

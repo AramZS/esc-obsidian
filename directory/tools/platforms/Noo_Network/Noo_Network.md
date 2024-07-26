@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Noo_Network"
+  - "Noo Network"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Noo_Network
+# Noo Network
 
 Brief on what the tool is and does 
 

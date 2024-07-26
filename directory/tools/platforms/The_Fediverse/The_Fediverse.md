@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "The_Fediverse"
+  - "The Fediverse"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# The_Fediverse
+# The Fediverse
 
 Brief on what the tool is and does 
 

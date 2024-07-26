@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "The_Brain"
+  - "The Brain"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# The_Brain
+# The Brain
 
 Brief on what the tool is and does 
 

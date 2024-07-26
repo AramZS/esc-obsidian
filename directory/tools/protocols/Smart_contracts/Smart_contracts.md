@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Smart_contracts"
+  - "Smart contracts"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Smart_contracts
+# Smart contracts
 
 Brief on what the tool is and does 
 

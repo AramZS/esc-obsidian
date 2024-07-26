@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Small_Town"
+  - "Small Town"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Small_Town
+# Small Town
 
 Brief on what the tool is and does 
 

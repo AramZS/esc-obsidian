@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Society_Library"
+  - "Society Library"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Society_Library
+# Society Library
 
 Brief on what the tool is and does 
 

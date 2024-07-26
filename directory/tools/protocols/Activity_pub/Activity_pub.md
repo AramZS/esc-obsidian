@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Activity_pub"
+  - "Activity pub"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Activity_pub
+# Activity pub
 
 Brief on what the tool is and does 
 

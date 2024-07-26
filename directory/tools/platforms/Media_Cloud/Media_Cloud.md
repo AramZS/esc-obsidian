@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Media_Cloud"
+  - "Media Cloud"
 homepage: 
 author: 
 expertLevel: 
 tags:
   - tool
 ---
-# Media_Cloud
+# Media Cloud
 
 Brief on what the tool is and does 
 
