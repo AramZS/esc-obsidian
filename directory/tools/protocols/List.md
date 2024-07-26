@@ -1,0 +1,25 @@
+- SSI
+- IPFS
+- Verifiable credential
+- NFT
+- Blockchain
+- Cryptocurrency
+- Markup
+- Decentralized
+- Distributed
+- J-LINC #Jim Fournier #Tru
+- The Digital Standard
+- Scuttlebutt
+- Solid
+- Beckn
+- Holochain
+- Activity pub
+- Smart contracts
+- Value flows
+- Murmurations
+- Open Data Initiative
+- CustomerCommons
+- Intentcasting
+- DIDs
+- Open Data Initiative
+- GreenCheck: Peer/review/reputation
