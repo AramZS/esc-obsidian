@@ -2,6 +2,7 @@
 aliases:
   - ProjectLiberty
   - Project Liberty
+homepage: https://www.projectliberty.io/
 ---
 # ProjectLiberty
 
@@ -9,7 +10,7 @@ Brief
 
 ## Leadership:
 
-- [[name]]
+- [[Frank McCourt]]
 
 ## Focus
 

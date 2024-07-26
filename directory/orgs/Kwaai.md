@@ -1,10 +1,9 @@
 ---
 aliases:
-  - CheckMyAds
-  - Check My Ads
-homepage: https://checkmyads.org/
+  - Kwaai
+homepage: https://www.kwaai.ai/
 ---
-# CheckMyAds
+# Kwaai
 
 Brief
 
