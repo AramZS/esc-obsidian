@@ -2,7 +2,7 @@
 aliases:
   - Center for Journalism and Liberty
 ---
-# Center_for_Journalism_and_Liberty 
+# Center for Journalism and Liberty 
 
 Brief
 

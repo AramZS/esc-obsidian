@@ -2,7 +2,7 @@
 aliases:
   - "Collaborative_Technology_Alliance"
 ---
-# Collaborative_Technology_Alliance
+# Collaborative Technology Alliance
 
 Brief
 

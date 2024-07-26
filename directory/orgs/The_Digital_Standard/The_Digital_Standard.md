@@ -2,7 +2,7 @@
 aliases:
   - "The_Digital_Standard"
 ---
-# The_Digital_Standard
+# The Digital Standard
 
 Brief
 

@@ -2,7 +2,7 @@
 aliases:
   - "World_Wide_Web_Consortium"
 ---
-# World_Wide_Web_Consortium
+# World Wide Web Consortium
 
 Brief
 

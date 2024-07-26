@@ -2,7 +2,7 @@
 aliases:
   - "Planetary_Care"
 ---
-# Planetary_Care
+# Planetary Care
 
 Brief
 

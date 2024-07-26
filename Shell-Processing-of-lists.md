@@ -14,3 +14,9 @@ while read -r line; do
     fi
 done
 ```
+
+Clean up titles in each new file 
+
+```sh
+LC_ALL=C find . -type f -exec sed -i '' '/^#/s/_/ /g' {} +
+```

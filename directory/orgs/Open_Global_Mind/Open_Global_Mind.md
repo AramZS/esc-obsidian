@@ -2,7 +2,7 @@
 aliases:
   - "Open_Global_Mind"
 ---
-# Open_Global_Mind
+# Open Global Mind
 
 Brief
 

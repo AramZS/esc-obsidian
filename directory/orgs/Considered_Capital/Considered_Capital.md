@@ -2,7 +2,7 @@
 aliases:
   - "Considered_Capital"
 ---
-# Considered_Capital
+# Considered Capital
 
 Brief
 

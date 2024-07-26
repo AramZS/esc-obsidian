@@ -2,7 +2,7 @@
 aliases:
   - "ESC_End_Surveillance_Capitalism"
 ---
-# ESC_End_Surveillance_Capitalism
+# ESC End Surveillance Capitalism
 
 Brief
 

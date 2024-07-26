@@ -2,7 +2,7 @@
 aliases:
   - Integrity Institute
 ---
-# Integrity_Institute 
+# Integrity Institute 
 
 Brief
 

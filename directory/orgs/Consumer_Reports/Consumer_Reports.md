@@ -2,7 +2,7 @@
 aliases:
   - "Consumer_Reports"
 ---
-# Consumer_Reports
+# Consumer Reports
 
 Brief
 

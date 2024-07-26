@@ -2,7 +2,7 @@
 aliases:
   - "Decent_Social"
 ---
-# Decent_Social
+# Decent Social
 
 Brief
 

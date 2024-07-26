@@ -2,7 +2,7 @@
 aliases:
   - "Initiative_for_Digital_Public_Infrastructure"
 ---
-# Initiative_for_Digital_Public_Infrastructure
+# Initiative for Digital Public Infrastructure
 
 Brief
 

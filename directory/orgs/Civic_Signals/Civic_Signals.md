@@ -2,7 +2,7 @@
 aliases:
   - "Civic_Signals"
 ---
-# Civic_Signals
+# Civic Signals
 
 Brief
 

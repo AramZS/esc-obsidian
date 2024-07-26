@@ -3,7 +3,7 @@ aliases:
   - Centere for Digital Rights
   - Center for Digital Rights
 ---
-# Centre_for_Digital_Rights
+# Centre for Digital Rights
 
 Brief
 

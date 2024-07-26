@@ -2,7 +2,7 @@
 aliases:
   - "Credibility_Coalition"
 ---
-# Credibility_Coalition
+# Credibility Coalition
 
 Brief
 

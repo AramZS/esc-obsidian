@@ -2,7 +2,7 @@
 aliases:
   - "Consilience_Project"
 ---
-# Consilience_Project
+# Consilience Project
 
 Brief
 

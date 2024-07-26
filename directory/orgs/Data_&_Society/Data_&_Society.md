@@ -2,7 +2,7 @@
 aliases:
   - "Data_{{title}}_Society"
 ---
-# Data_{{title}}_Society
+# Data {{title}} Society
 
 Brief
 

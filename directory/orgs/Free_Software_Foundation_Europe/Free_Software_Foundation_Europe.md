@@ -2,7 +2,7 @@
 aliases:
   - Free Software Foundation Europe
 ---
-# Free_Software_Foundation_Europe 
+# Free Software Foundation Europe 
 
 Brief
 

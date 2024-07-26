@@ -2,7 +2,7 @@
 aliases:
   - "Free_Software_Foundation"
 ---
-# Free_Software_Foundation
+# Free Software Foundation
 
 Brief
 

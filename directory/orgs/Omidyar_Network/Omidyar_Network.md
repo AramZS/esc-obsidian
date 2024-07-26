@@ -2,7 +2,7 @@
 aliases:
   - "Omidyar_Network"
 ---
-# Omidyar_Network
+# Omidyar Network
 
 Brief
 

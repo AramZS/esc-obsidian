@@ -2,7 +2,7 @@
 aliases:
   - "Startups_{{title}}_Society"
 ---
-# Startups_{{title}}_Society
+# Startups {{title}} Society
 
 Brief
 

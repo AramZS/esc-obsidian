@@ -2,7 +2,7 @@
 aliases:
   - "National_Conference_on_Citizenship"
 ---
-# National_Conference_on_Citizenship
+# National Conference on Citizenship
 
 Brief
 

@@ -2,7 +2,7 @@
 aliases:
   - "All_Tech_Is_Human"
 ---
-# All_Tech_Is_Human
+# All Tech Is Human
 
 Brief
 

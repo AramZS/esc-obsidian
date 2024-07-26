@@ -2,7 +2,7 @@
 aliases:
   - "Solutions_Journalism_Network"
 ---
-# Solutions_Journalism_Network
+# Solutions Journalism Network
 
 Brief
 

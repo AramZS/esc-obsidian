@@ -2,7 +2,7 @@
 aliases:
   - "World_Wide_Web_Foundation"
 ---
-# World_Wide_Web_Foundation
+# World Wide Web Foundation
 
 Brief
 

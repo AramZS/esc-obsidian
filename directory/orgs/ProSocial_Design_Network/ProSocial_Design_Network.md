@@ -2,7 +2,7 @@
 aliases:
   - "ProSocial_Design_Network"
 ---
-# ProSocial_Design_Network
+# ProSocial Design Network
 
 Brief
 

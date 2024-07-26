@@ -2,7 +2,7 @@
 aliases:
   - "Mighty_Networks"
 ---
-# Mighty_Networks
+# Mighty Networks
 
 Brief
 

@@ -2,7 +2,7 @@
 aliases:
   - "Craig_Newmark_Foundation"
 ---
-# Craig_Newmark_Foundation
+# Craig Newmark Foundation
 
 Brief
 

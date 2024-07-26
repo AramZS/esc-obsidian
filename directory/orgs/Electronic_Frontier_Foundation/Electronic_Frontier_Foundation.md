@@ -2,7 +2,7 @@
 aliases:
   - "Electronic_Frontier_Foundation"
 ---
-# Electronic_Frontier_Foundation
+# Electronic Frontier Foundation
 
 Brief
 
