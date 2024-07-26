@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "75f2c03d520c7360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orgs/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec592540c136b26d",
             "type": "leaf",
             "state": {
@@ -85,7 +73,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orgs/README.md",
+                "file": "media/books/books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bdfb30f71ff71c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/books/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6ad667ebaf3831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orgs/README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "orgs/README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orgs/README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -245,43 +257,43 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "75f2c03d520c7360",
+  "active": "8a6ad667ebaf3831",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "orgs/README.md",
-    "events/README.md",
-    "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
-    "media/books/books.md",
-    "people/README.md",
-    "Untitled.md",
     "media/books/README.md",
-    "media/books/Zucked.md",
-    "media/books/The Cluetrain Manifesto.md",
-    "media/books/Cluetrain Manifesto.md",
-    "working-groups/editorial.md",
-    "working-groups",
-    "topic-playbooks/README.md",
-    "topic-playbooks",
-    "standards/README.md",
-    "standards",
-    "sf/README.md",
-    "sf",
-    "people",
-    "orgs",
-    "old-sessions.md",
-    "nyc/README.md",
-    "nyc",
-    "meetings-notes/README.md",
-    "meetings-notes/2024-03-22.md",
-    "meetings-notes",
-    "media/podcasts/README.md",
-    "media/items/README.md",
-    "media/podcasts",
-    "media/items",
-    "media/README.md",
-    "glossary/README.md",
-    "assets/README.md",
-    "__templates/working-group.md",
-    "__templates/topic-playbook.md"
+    "conflict-files-obsidian-git.md",
+    "media/books/books.md",
+    "ESC.fyi sandbox (MG)/ESC.fyi outline.md",
+    "orgs/README.md",
+    "directory/tools/protocols/README.md",
+    "directory/tools/protocols/List.md",
+    "directory/tools/platforms/README.md",
+    "directory/tools/platforms/List.md",
+    "directory/media/podcasts/README.md",
+    "directory/media/items/README.md",
+    "directory/media/books/README.md",
+    "directory/working-groups/editorial.md",
+    "directory/working-groups/README.md",
+    "directory/topic-playbooks/README.md",
+    "directory/tools/protocols",
+    "directory/tools/platforms",
+    "directory/tools/README.md",
+    "directory/standards/README.md",
+    "directory/sf/README.md",
+    "directory/sf/CAPrivacy.md",
+    "directory/people/README.md",
+    "directory/orgs/RestoreThe4th.md",
+    "directory/orgs/README.md",
+    "directory/orgs/ProjectLiberty.md",
+    "directory/orgs/List.md",
+    "directory/orgs/Kwaai.md",
+    "directory/orgs/CheckMyAds.md",
+    "directory/media/podcasts",
+    "directory/media/items",
+    "directory/media/books",
+    "directory/working-groups",
+    "directory/topic-playbooks",
+    "directory/tools",
+    "directory/standards",
+    "directory/sf"
   ]
 }

@@ -1,1 +1,0 @@
-Put individual glossary terms as stand alone files here with definitions and connections

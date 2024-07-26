@@ -1,3 +1,5 @@
+# README
+
 
 To get started: 
 - Install Obsidian 
@@ -17,3 +19,5 @@ To get started:
 ## Resources 
 
 - The content of this is web-facing at https://publish.obsidian.md/esc-fyi 
+- Site source: https://github.com/EndSurveillanceCapitalism/EndSurveillanceCapitalism.github.io
+- Notes source: https://github.com/EndSurveillanceCapitalism/esc-obsidian

@@ -1,10 +1,14 @@
 [
   "obsidian-git",
   "folder-note-plugin",
+<<<<<<< HEAD
   "share-note",
   "dataview",
   "settings-search",
   "obsidian-style-settings",
   "obsidian-kanban",
   "obsidian-full-calendar"
+=======
+  "obsidian-advanced-uri"
+>>>>>>> origin/main
 ]

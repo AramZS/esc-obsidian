@@ -1,9 +1,18 @@
 {
   "folderNoteHide": true,
+<<<<<<< HEAD
   "folderNoteType": "inside",
   "folderNoteName": "_about_",
   "folderNoteKey": "ctrl",
   "folderNoteAutoRename": true,
   "folderDelete2Note": false,
   "folderNoteStrInit": "# {{FOLDER_NAME}} Table of Contents\n {{FOLDER_BRIEF_LIVE}} \n"
+=======
+  "folderNoteType": "index",
+  "folderNoteName": "README",
+  "folderNoteKey": "ctrl",
+  "folderNoteAutoRename": true,
+  "folderDelete2Note": false,
+  "folderNoteStrInit": "# {{FOLDER_NAME}} Overview\n {{FOLDER_BRIEF_LIVE}} \n"
+>>>>>>> origin/main
 }
