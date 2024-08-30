@@ -6,7 +6,8 @@ type:
 created: "{{date}}"
 itemPublished: 
 sameAs: 
-isBasedOn:
+isBasedOn: 
+author:
 ---
 # {{title}}
 
