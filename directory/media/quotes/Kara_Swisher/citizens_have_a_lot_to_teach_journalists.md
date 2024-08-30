@@ -1,0 +1,1 @@
+“Can we love citizens doing journalism—if we want to use that word—or just giving information, while also decrying those who seem to feed those with poor-information diets information that is caloric toxic and of a quantity that makes it impossible to stop gorging on?….Citizens have a lot to teach journalists.”
