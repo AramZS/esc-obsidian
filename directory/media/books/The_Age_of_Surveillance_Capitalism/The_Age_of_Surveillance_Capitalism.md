@@ -1,19 +1,17 @@
 ---
 aliases:
-  - "{{title}}"
+  - "The Age of Surveillance Capitalism"
 tags: 
 type: 
 created: "{{date}}"
 itemPublished: 
 sameAs: 
 isBasedOn: 
-author: 
-Description:
+author: Shoshana Zuboff
 ---
-# {{title}}
+# The Age of Surveillance Capitalism
 
-By `=this.author`
-**Summary**: `=this.Description`
+Describe book, item, podcast, paper, etc....
 
 use `type` field to define the type of item this is, for example - academic paper. 
 

@@ -1,19 +1,17 @@
 ---
 aliases:
-  - "{{title}}"
+  - The Intention Economy When Customers Take Charge
 tags: 
 type: 
 created: "{{date}}"
 itemPublished: 
 sameAs: 
 isBasedOn: 
-author: 
-Description:
+author: Doc Searls
 ---
-# {{title}}
+# The Intention Economy When Customers Take Charge
 
-By `=this.author`
-**Summary**: `=this.Description`
+Describe book, item, podcast, paper, etc....
 
 use `type` field to define the type of item this is, for example - academic paper. 
 

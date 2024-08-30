@@ -1,19 +1,17 @@
 ---
 aliases:
-  - "{{title}}"
+  - The Cluetrain Manifesto the End of Business as Usual
 tags: 
 type: 
 created: "{{date}}"
 itemPublished: 
 sameAs: 
 isBasedOn: 
-author: 
-Description:
+author: Chris Locke, David Weinberger, Rick Levine and Doc Searls
 ---
-# {{title}}
+# The Cluetrain Manifesto the End of Business as Usual
 
-By `=this.author`
-**Summary**: `=this.Description`
+Describe book, item, podcast, paper, etc....
 
 use `type` field to define the type of item this is, for example - academic paper. 
 

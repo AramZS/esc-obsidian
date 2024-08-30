@@ -1,19 +1,17 @@
 ---
 aliases:
-  - "{{title}}"
+  - "Indistractable"
 tags: 
 type: 
 created: "{{date}}"
 itemPublished: 
 sameAs: 
 isBasedOn: 
-author: 
-Description:
+author: Nir Ayal
 ---
-# {{title}}
+# Indistractable
 
-By `=this.author`
-**Summary**: `=this.Description`
+Describe book, item, podcast, paper, etc....
 
 use `type` field to define the type of item this is, for example - academic paper. 
 

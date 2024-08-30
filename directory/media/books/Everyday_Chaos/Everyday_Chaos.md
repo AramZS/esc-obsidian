@@ -1,19 +1,17 @@
 ---
 aliases:
-  - "{{title}}"
+  - "Everyday Chaos"
 tags: 
 type: 
 created: "{{date}}"
 itemPublished: 
 sameAs: 
 isBasedOn: 
-author: 
-Description:
+author: David Weinberger
 ---
-# {{title}}
+# Everyday Chaos
 
-By `=this.author`
-**Summary**: `=this.Description`
+Describe book, item, podcast, paper, etc....
 
 use `type` field to define the type of item this is, for example - academic paper. 
 
